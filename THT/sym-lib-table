@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name New_Library)(type Legacy)(uri ${KIPRJMOD}/New_Library.lib)(options "")(descr ""))
+  (lib (name BadUSB-rescue)(type Legacy)(uri ${KIPRJMOD}/BadUSB-rescue.lib)(options "")(descr ""))
+)
